@@ -1,0 +1,6 @@
+numpy
+matplotlib
+librosa
+soundfile
+scikit-learn
+tensorflow>=2.10.0
