@@ -1,4 +1,4 @@
-# 🎙️ Voice Digit Recognition AI
+# 🎙️ Voice Digit Recognition
 
 ### 📂 Dataset Source
 **This project uses the Free Spoken Digit Database (FSDD).** Download the dataset here: [Kaggle - Free Spoken Digit Database](https://www.kaggle.com/datasets/subhajournal/free-spoken-digit-database/data)
